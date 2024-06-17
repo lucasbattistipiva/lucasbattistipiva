@@ -10,8 +10,6 @@ I'm Lucas Battisti Piva , i work and study system developments in SESI SENAI.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbattistipiva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lucasbattistipiva&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasbattistipiva&icon=7&color=1)](https://visitcount.itsvg.in)
