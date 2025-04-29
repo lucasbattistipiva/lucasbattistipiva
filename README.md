@@ -1,5 +1,5 @@
 # FullStack Developer
-I'm Lucas Battisti Piva , i study computer science in UNIVALI.
+My name is Lucas Battisti Piva and I'm 18 years old. I study Computer Science at UNIVALI, before I studied at a technical school in systems development. I learned JavaScript, HTTP, UML, CSS, HTML, Node.js, MySQL and APIRESTFul. I took other courses where I used Java with SpringBoot, OOP, MVC and MySQL.
 
 
 ## 🌐 Socials:
